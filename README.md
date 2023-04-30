@@ -1,5 +1,5 @@
 # Fancy_SD_Captioner
-Caption editor for stable diffusion image sets
+Caption editor for stable diffusion image sets, made in Unity because I was lazy
 
 Displays image thumbnails adjacent to the caption file contents, like so:
 
