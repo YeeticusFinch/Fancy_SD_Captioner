@@ -8,7 +8,7 @@ Displays image thumbnails adjacent to the caption file contents, like so:
 
 ## Instructions
 
-Download the appropriate zip file from the '`eleases` tab
+Download the appropriate zip file from the `releases` tab
 
 Extract the zip file
 
