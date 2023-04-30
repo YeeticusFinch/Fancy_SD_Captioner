@@ -9,11 +9,19 @@ Displays image thumbnails adjacent to the caption file contents, like so:
 ## Instructions
 
 Download the appropriate zip file from the '`eleases` tab
+
 Extract the zip file
+
 Run the executable
+
 A folder selector should pop up, select the folder containing the images and text files
+
 - Text files and images should be in the same folder, and the text files should share the same names as their corresponding images
+
 The images will then be displayed adjacent to the contents of their corresponding text files
+
 Use the scroll wheel to scroll through all the images and captions
+
 You can edit the captions directly, and it will automatically save to the appropriate text files (writes to the file if no key is pressed for 0.4 seconds)
+
 Hover your mouse over the image thumbnail to see a larger preview
